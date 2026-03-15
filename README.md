@@ -41,7 +41,7 @@ pca_kmeans/
 
 ---
 
-# 🧠 Analytical Workflow
+# Analytical Workflow
 
 ## 1) Overview and Data Cleaning (`01_overview.ipynb`)
 
